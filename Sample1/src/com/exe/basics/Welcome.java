@@ -15,7 +15,7 @@ public class Welcome {
 	public static void main(String[] args) {
 		boolean flag = true;
 
-		System.out.println("Hello World");
+		
 		if (flag) {
 
 			System.out.println("If Block");

@@ -12,6 +12,7 @@ public class StringSample {
 		System.out.println(s.substring(2));
 		System.out.println(s.substring(2, 3));
 		System.out.println(s + ">" + a);
+		
 
 	}
 
